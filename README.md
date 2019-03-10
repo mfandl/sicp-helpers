@@ -6,7 +6,7 @@ This small set of utility functions contains pieces of code that I tend to re-us
 
 When using `#lang sicp`, you can require the desired modules like this:
 
-```
+```racket
 #lang sicp
 (#%require sicp-pict)
 (#%require "sicp-helpers/pict-gui.rkt")
